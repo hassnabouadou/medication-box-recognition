@@ -1,0 +1,420 @@
+Accuracy: 0.00%
+Precision: 0.00%
+Recall: 0.00%
+F1: 0.00%
+
+                                                  precision    recall  f1-score   support
+
+                                               ?       0.00      0.00      0.00       0.0
+                                          A-GRAM       0.00      0.00      0.00       0.0
+                                A.V.D. BTE 20 CP       0.00      0.00      0.00       0.0
+                                          ACIVIR       0.00      0.00      0.00       0.0
+                                      ACNO 10 MG       0.00      0.00      0.00       0.0
+                                      ACNO 30 MG       0.00      0.00      0.00       0.0
+                                          ACTI-5       0.00      0.00      0.00       0.0
+                                  ACTIVAROL C100       0.00      0.00      0.00       0.0
+                                         ADALATE       0.00      0.00      0.00       0.0
+                                            ADEX       0.00      0.00      0.00       0.0
+                                             ADO       0.00      0.00      0.00       0.0
+                                ADO 1000MG 90 CP       0.00      0.00      0.00       0.0
+                                         AGIFENE       0.00      0.00      0.00       0.0
+                                AGLIM 4 MG 30 CP       0.00      0.00      0.00       0.0
+                                          AIRLIX       0.00      0.00      0.00       0.0
+                                          AIRTAL       0.00      0.00      0.00       0.0
+                                          ALER Z       0.00      0.00      0.00       0.0
+                                ALER-Z 14 CP (P)       0.00      0.00      0.00       0.0
+                                ALER-Z 28 CP (P)       0.00      0.00      0.00       0.0
+                                 ALER-Z 7 CP (P)       0.00      0.00      0.00       0.0
+                           ALFACEFAL 125 MG/5 ML       0.00      0.00      0.00       0.0
+                                        ALGANTIL       0.00      0.00      0.00       0.0
+                ALGANTIL 5% 50G GEL DERMIQUE (H)       0.00      0.00      0.00       0.0
+                                          ALGINE       0.00      0.00      0.00       0.0
+                                          ALIMTA       0.00      0.00      0.00       0.0
+                                     AM 5MG 30CP       0.00      0.00      0.00       0.0
+                                          AMAREL       0.00      0.00      0.00       0.0
+                                         AMEP 10       0.00      0.00      0.00       0.0
+                                           AMLOR       0.00      0.00      0.00       0.0
+                     ANAFRANIL 25 MG /30 CP (2M)       0.00      0.00      0.00       0.0
+                      ANASTROZOLE GT 1 MG 60 CPS       0.00      0.00      0.00       0.0
+                                           ANDOL       0.00      0.00      0.00       0.0
+                           ANDOL C 500 MG/300 MG       0.00      0.00      0.00       0.0
+                                ANDOL C B/10 (H)       0.00      0.00      0.00       0.0
+                  ANTIBIO SYNALAR GOUTTES AURICU       0.00      0.00      0.00       0.0
+                                 ANTIBIO-SYNALAR       0.00      0.00      0.00       0.0
+                                         APAISYL       0.00      0.00      0.00       0.0
+                                         APETINE       0.00      0.00      0.00       0.0
+                                            ARES       0.00      0.00      0.00       0.0
+                                            ARGO       0.00      0.00      0.00       0.0
+                           ARIXTRA 2.5 MG/0.5 ML       0.00      0.00      0.00       0.0
+                                          ART 50       0.00      0.00      0.00       0.0
+           ASPEGIC 1000MG B/10 STS (P) (H) (CHC)       0.00      0.00      0.00       0.0
+          ASPEGIC 100MG B/20 STS N (P) (H) (CHC)       0.00      0.00      0.00       0.0
+                                           ASPRO       0.00      0.00      0.00       0.0
+                                          ATARAX       0.00      0.00      0.00       0.0
+                                          ATENOR       0.00      0.00      0.00       0.0
+                   ATOPIX 10MG B/15 CP PELL. (P)       0.00      0.00      0.00       0.0
+                                     ATUS SP 125       0.00      0.00      0.00       0.0
+                                       AUGMENTIN       0.00      0.00      0.00       0.0
+                                           AULIN       0.00      0.00      0.00       0.0
+                    AVAMYS 27.5 ΜG/PULVERISATION       0.00      0.00      0.00       0.0
+                                         AVIRO-Z       0.00      0.00      0.00       0.0
+                                             AVT       0.00      0.00      0.00       0.0
+                                              AZ       0.00      0.00      0.00       0.0
+                               AZ 500MG 3 CP (H)       0.00      0.00      0.00       0.0
+                                            AZIX       0.00      0.00      0.00       0.0
+                                        AZOLE 4%       0.00      0.00      0.00       0.0
+                           BAYCUTENE N 15G CREME       0.00      0.00      0.00       0.0
+                                       BC-F 8,4%       0.00      0.00      0.00       0.0
+                     BETNEVAL 0.1% 10G CREME (E)       0.00      0.00      0.00       0.0
+                   BETNEVAL 0.1% 10G POMMADE (E)       0.00      0.00      0.00       0.0
+                        BI-ORAGIN 1.5 MUI/250 MG       0.00      0.00      0.00       0.0
+                                         BIAFINE       0.00      0.00      0.00       0.0
+                              BICARBONATE SLF307       0.00      0.00      0.00       0.0
+                                     BIOTIC PLUS       0.00      0.00      0.00       0.0
+                           BLEMIL PLUS IT 1 400G       0.00      0.00      0.00       0.0
+                     BLISSEL 10G + 1 GEL VAGINAL       0.00      0.00      0.00       0.0
+                                          BLUCIN       0.00      0.00      0.00       0.0
+                                             BOX       0.00      0.00      0.00       0.0
+                          BROPDEX 0.3G/0.1G 10ML       0.00      0.00      0.00       0.0
+                                          BUDENA       0.00      0.00      0.00       0.0
+                                         BUTAMYL       0.00      0.00      0.00       0.0
+                               CACIT VITAMINE D3       0.00      0.00      0.00       0.0
+                                  CALCIUM SANDOZ       0.00      0.00      0.00       0.0
+                                          CALPOL       0.00      0.00      0.00       0.0
+                                     CAPD/DPCA 2       0.00      0.00      0.00       0.0
+                                      CARDENSIEL       0.00      0.00      0.00       0.0
+                 CEFALOTINE PHARMA 1 G (IM - IV)       0.00      0.00      0.00       0.0
+                                         CETAMYL       0.00      0.00      0.00       0.0
+                                         CETIRAL       0.00      0.00      0.00       0.0
+                                        CETOLERG       0.00      0.00      0.00       0.0
+                                           CEZIN       0.00      0.00      0.00       0.0
+             CFERONE FER VIT C B2 B9 B12 BT 30CP       0.00      0.00      0.00       0.0
+                         CHLORURE DE SODIUM 0.9%       0.00      0.00      0.00       0.0
+                 CHLORURE DE SODIUM 0.9% SOTHEMA       0.00      0.00      0.00       0.0
+                 CHLORURE SODIUM 0.9% 500ML (SP)       0.00      0.00      0.00       0.0
+                                           CINET       0.00      0.00      0.00       0.0
+              CIPROFLOXACINE MYLAN 200 MG/100 ML       0.00      0.00      0.00       0.0
+                       CIPROFLOXACINE WIN 250 MG       0.00      0.00      0.00       0.0
+                     CLARADOL 500 X 16 COMP EFFE       0.00      0.00      0.00       0.0
+                    CLAZEN XL 500MG B/7 (CC) (H)       0.00      0.00      0.00       0.0
+                   CLENIL FORT SPRAY 200 DOS. 0%       0.00      0.00      0.00       0.0
+                                          CLOMID       0.00      0.00      0.00       0.0
+                                        CLOPRAME       0.00      0.00      0.00       0.0
+                                    CODO-LIBRANE       0.00      0.00      0.00       0.0
+                                     CODOLIPRANE       0.00      0.00      0.00       0.0
+                   COMBIGAN 0.2% 0.5% COLLYRE 5M       0.00      0.00      0.00       0.0
+               COQUELUSEDAL PARA N /12 SUPPO (H)       0.00      0.00      0.00       0.0
+                                        COTIPRED       0.00      0.00      0.00       0.0
+                                         CRISTAL       0.00      0.00      0.00       0.0
+                                    CURACNÉ 10MG       0.00      0.00      0.00       0.0
+                                         CYCLO 3       0.00      0.00      0.00       0.0
+                                          D-CURE       0.00      0.00      0.00       0.0
+                    D-CURE 25000UI/ GELULE BTE 4       0.00      0.00      0.00       0.0
+                                        DAILY GÉ       0.00      0.00      0.00       0.0
+                                           DAZEN       0.00      0.00      0.00       0.0
+                                        DERMOVAL       0.00      0.00      0.00       0.0
+                                             DHE       0.00      0.00      0.00       0.0
+                                         DI-INDO       0.00      0.00      0.00       0.0
+           DIALYSE PERITONEALE BIEFFE FORMULE 55       0.00      0.00      0.00       0.0
+           DIALYSE PERITONEALE BIEFFE FORMULE 91       0.00      0.00      0.00       0.0
+                                        DIAPHARM       0.00      0.00      0.00       0.0
+                                         DICETEL       0.00      0.00      0.00       0.0
+                                   DICETEL 100MG       0.00      0.00      0.00       0.0
+                                        DICLOMAX       0.00      0.00      0.00       0.0
+                                           DIFAL       0.00      0.00      0.00       0.0
+                                       DIFAL 1 %       0.00      0.00      0.00       0.0
+                                         DILATOR       0.00      0.00      0.00       0.0
+                                            DOLI       0.00      0.00      0.00       0.0
+                                       DOLIPRANE       0.00      0.00      0.00       0.0
+                                DOLIPRANE 1000MG       0.00      0.00      0.00       0.0
+               DOLIPRANE 200MG 10SUPPO 12-16 (H)       0.00      0.00      0.00       0.0
+               DOLIPRANE 200MG 12 STS 12-16K (H)       0.00      0.00      0.00       0.0
+                    DOLIPRANE 500 MG 16 GEL. (H)       0.00      0.00      0.00       0.0
+                    DOLIPRANE 500MG 16 CP EFFER.       0.00      0.00      0.00       0.0
+                                         DOXICAN       0.00      0.00      0.00       0.0
+                                          DOXINE       0.00      0.00      0.00       0.0
+                                DOXYMYCINE 100MG       0.00      0.00      0.00       0.0
+                                        DR. YGLO       0.00      0.00      0.00       0.0
+                                          DUOXOL       0.00      0.00      0.00       0.0
+                        DUPHASTON 10 MG /20 COMP       0.00      0.00      0.00       0.0
+                                         DURESAN       0.00      0.00      0.00       0.0
+                                        DYNATENS       0.00      0.00      0.00       0.0
+                                      EAU P.P.I.       0.00      0.00      0.00       0.0
+               ECINQ 30MG 1 CP CONTRACEP URGENCE       0.00      0.00      0.00       0.0
+                                           EFDOL       0.00      0.00      0.00       0.0
+                                   EFDOL CAFEINE       0.00      0.00      0.00       0.0
+               EFFERALGAN VIT C /20 CP EFFER (H)       0.00      0.00      0.00       0.0
+                                         EMLA 5%       0.00      0.00      0.00       0.0
+                    ENTEROGERMINA /10AMP (P) (E)       0.00      0.00      0.00       0.0
+                                  EOSINE AQUEUSE       0.00      0.00      0.00       0.0
+                                   EOSINE PHARMA       0.00      0.00      0.00       0.0
+                                         EQUANIL       0.00      0.00      0.00       0.0
+                                        ERYFLUID       0.00      0.00      0.00       0.0
+                                          ERYSOL       0.00      0.00      0.00       0.0
+                                      ESAC 20 MG       0.00      0.00      0.00       0.0
+                                          EUPHON       0.00      0.00      0.00       0.0
+                                 EXELON PATCH 10       0.00      0.00      0.00       0.0
+                                   EXEMPLE 500MG       0.00      0.00      0.00       0.0
+                              EXFORGE 5 MG/80 MG       0.00      0.00      0.00       0.0
+                              FAZOL 2% CREME (E)       0.00      0.00      0.00       0.0
+                                  FCB12 /30 GEL.       0.00      0.00      0.00       0.0
+                                          FEBREX       0.00      0.00      0.00       0.0
+                                          FEMARA       0.00      0.00      0.00       0.0
+                                           FENAC       0.00      0.00      0.00       0.0
+                                      FENAC 50MG       0.00      0.00      0.00       0.0
+                                          FLAGYL       0.00      0.00      0.00       0.0
+                                         FLOTRAL       0.00      0.00      0.00       0.0
+                                          FLUCON       0.00      0.00      0.00       0.0
+                    FLUMAX 6000 UI ANTI-XA/0.6ML       0.00      0.00      0.00       0.0
+                                         FOLIFER       0.00      0.00      0.00       0.0
+                                        FORTRANS       0.00      0.00      0.00       0.0
+                            G-WARTS 5% CR 12 STS       0.00      0.00      0.00       0.0
+                                         GASTROP       0.00      0.00      0.00       0.0
+                         GEMCITABINE HOSPIRA 1 G       0.00      0.00      0.00       0.0
+                                          GENTAL       0.00      0.00      0.00       0.0
+                                           GLEMA       0.00      0.00      0.00       0.0
+                GLUCONATE DE CALCIUM 10 % PROAMP       0.00      0.00      0.00       0.0
+                     GLUCOPHAGE 850MG RET /60 0%       0.00      0.00      0.00       0.0
+                                      GLUCOVANCE       0.00      0.00      0.00       0.0
+                                  GONAL-F 150 UI       0.00      0.00      0.00       0.0
+                               GYNERGENE CAFEINE       0.00      0.00      0.00       0.0
+                   HEXOMEDINE SOLUTION 45 ML (E)       0.00      0.00      0.00       0.0
+                                   HONIX AB B/10       0.00      0.00      0.00       0.0
+                                          HYDREA       0.00      0.00      0.00       0.0
+                                        HYTACAND       0.00      0.00      0.00       0.0
+                                           I MAG       0.00      0.00      0.00       0.0
+                                            I3.1       0.00      0.00      0.00       0.0
+                               ICAM 5MG 7 CP (H)       0.00      0.00      0.00       0.0
+                                      ICIN 0.3 %       0.00      0.00      0.00       0.0
+                                           IDEOS       0.00      0.00      0.00       0.0
+                                         IMMUNEA       0.00      0.00      0.00       0.0
+                                          INALER       0.00      0.00      0.00       0.0
+                                         INDOLAN       0.00      0.00      0.00       0.0
+                 INDOLAN 25MG BTE 30 GELULES (H)       0.00      0.00      0.00       0.0
+INFANRIX IPV POLIO-HIB (TETRAVAL. : D/T/COQ/HIB)       0.00      0.00      0.00       0.0
+                                         INFERON       0.00      0.00      0.00       0.0
+                INNOHEP 14 000 UI ANTI-XA/0,7 ML       0.00      0.00      0.00       0.0
+                INNOHEP 18 000 UI ANTI-XA/0,9 ML       0.00      0.00      0.00       0.0
+                  INSULINE MIXTARD 30 HM PENFILL       0.00      0.00      0.00       0.0
+                                             IPP       0.00      0.00      0.00       0.0
+                              IPP 20MG 7 GEL (R)       0.00      0.00      0.00       0.0
+                                  ISALIS 20MG /2       0.00      0.00      0.00       0.0
+                                         ISOLONE       0.00      0.00      0.00       0.0
+                                           ISONE       0.00      0.00      0.00       0.0
+                                            IXEL       0.00      0.00      0.00       0.0
+                                            IXOR       0.00      0.00      0.00       0.0
+                       KAMAGRA 50MG B/1 (CC) (R)       0.00      0.00      0.00       0.0
+                       KAMAGRA 50MG B/2 (CC) (R)       0.00      0.00      0.00       0.0
+                                        KARDEGIC       0.00      0.00      0.00       0.0
+                                   KARDEGIC 75MG       0.00      0.00      0.00       0.0
+                                          KINTEX       0.00      0.00      0.00       0.0
+                                        LAEVOLAC       0.00      0.00      0.00       0.0
+                                          LANTUS       0.00      0.00      0.00       0.0
+                                         LEVAMOX       0.00      0.00      0.00       0.0
+                 LEVAMOX 1000/125 12CP EFFER (H)       0.00      0.00      0.00       0.0
+                                         LEVITRA       0.00      0.00      0.00       0.0
+                                LEVOFLOXACINE GT       0.00      0.00      0.00       0.0
+                                           LEXUS       0.00      0.00      0.00       0.0
+                        LIDOCAINE 1% F 20 ML INJ       0.00      0.00      0.00       0.0
+                        LIDOCAINE 5% F 24 ML INJ       0.00      0.00      0.00       0.0
+                         LIFONGID CREME T/30 (E)       0.00      0.00      0.00       0.0
+                 LINKOFTAL 0.3%  SOL OPHTALMIQUE       0.00      0.00      0.00       0.0
+                                         LOCACID       0.00      0.00      0.00       0.0
+                                           LODOZ       0.00      0.00      0.00       0.0
+                 LONGAMYCINE 100MG /10 COMP. (H)       0.00      0.00      0.00       0.0
+                        LONSURF 20/8.19 BT 20 CP       0.00      0.00      0.00       0.0
+                                          LOREUS       0.00      0.00      0.00       0.0
+                                           LORIX       0.00      0.00      0.00       0.0
+                                         LOVENOX       0.00      0.00      0.00       0.0
+                                          LYSO 6       0.00      0.00      0.00       0.0
+                                        MACROCID       0.00      0.00      0.00       0.0
+                                        MACROMAX       0.00      0.00      0.00       0.0
+                                           MAG 2       0.00      0.00      0.00       0.0
+                        MANIEZ 24 B28 PACK 20+10       0.00      0.00      0.00       0.0
+          MARIMER ISOTONIQ. SPRAY NASAL (CC) (H)       0.00      0.00      0.00       0.0
+                                            MEBO       0.00      0.00      0.00       0.0
+                                    MELOXICAM GT       0.00      0.00      0.00       0.0
+                                     MEZOR 40 MG       0.00      0.00      0.00       0.0
+                          MICROPAKINE LP 1000 MG       0.00      0.00      0.00       0.0
+                                           MOBIC       0.00      0.00      0.00       0.0
+                                         MODOPAR       0.00      0.00      0.00       0.0
+                                          MONEVA       0.00      0.00      0.00       0.0
+                    MONO TILDIEM LP 300MG /28 0%       0.00      0.00      0.00       0.0
+                                          MOPRAL       0.00      0.00      0.00       0.0
+                               MORPHINE MERAM 1%       0.00      0.00      0.00       0.0
+                                         MORUPAR       0.00      0.00      0.00       0.0
+   MULTIVIT PROTECT(GELEE ROY+PROP) SIROP 150 ML       0.00      0.00      0.00       0.0
+                                           MUXOL       0.00      0.00      0.00       0.0
+                                       MYCOPHARM       0.00      0.00      0.00       0.0
+                                        MYCOSTER       0.00      0.00      0.00       0.0
+                                             MYK       0.00      0.00      0.00       0.0
+                              NAN COMFORT 1 800G       0.00      0.00      0.00       0.0
+                   NEOCLAV 500MG/62.5 12 STS (H)       0.00      0.00      0.00       0.0
+                                         NEOCORT       0.00      0.00      0.00       0.0
+                                          NEOMOX       0.00      0.00      0.00       0.0
+                                          NEORAL       0.00      0.00      0.00       0.0
+                   NEWFLEX GEL CHAUFFANT ROLL-ON       0.00      0.00      0.00       0.0
+     NICOPASS 1.5 MG SANS SUCRE MENTHE FRAICHEUR       0.00      0.00      0.00       0.0
+      NICOPASS 1.5 MG SANS SUCRE REGLISSE MENTHE       0.00      0.00      0.00       0.0
+                                         NIDAZOL       0.00      0.00      0.00       0.0
+                 NIFLURIL 700MG AD /8 SUPPOS (H)       0.00      0.00      0.00       0.0
+                                          NIMBEX       0.00      0.00      0.00       0.0
+            NIVESTIM 48 MU/0.5 ML BTE 5 SERINGUE       0.00      0.00      0.00       0.0
+                                          NO-SPA       0.00      0.00      0.00       0.0
+                                           NONAN       0.00      0.00      0.00       0.0
+                                      NORISTERAT       0.00      0.00      0.00       0.0
+                                O-LINE 10MG B/28       0.00      0.00      0.00       0.0
+                                      OCET 200MG       0.00      0.00      0.00       0.0
+                                            ODIA       0.00      0.00      0.00       0.0
+                                           ODRIK       0.00      0.00      0.00       0.0
+                                  OLIGO-ELEMENTS       0.00      0.00      0.00       0.0
+                                         OLIPLAT       0.00      0.00      0.00       0.0
+                                         OLMETEC       0.00      0.00      0.00       0.0
+                                         OLOXINE       0.00      0.00      0.00       0.0
+                                          OMEGEN       0.00      0.00      0.00       0.0
+                                      OMIZ 20 MG       0.00      0.00      0.00       0.0
+                                         ONCOVIN       0.00      0.00      0.00       0.0
+                  ONICOFIX 3.5ML VERNIS A ONGLES       0.00      0.00      0.00       0.0
+                                          ORAGIN       0.00      0.00      0.00       0.0
+                                            OREX       0.00      0.00      0.00       0.0
+                      ORGALUTRON B/5 0.25MG/05ML       0.00      0.00      0.00       0.0
+                                           OSPEN       0.00      0.00      0.00       0.0
+                                         OSSOPAN       0.00      0.00      0.00       0.0
+                                           OTOFA       0.00      0.00      0.00       0.0
+                              OTOSAN NASAL 30 ML       0.00      0.00      0.00       0.0
+                                        OTRIVINE       0.00      0.00      0.00       0.0
+                      OTRIVINE GOUTTES 0.10% (H)       0.00      0.00      0.00       0.0
+                            OVESTIN OVULE  B/ 15       0.00      0.00      0.00       0.0
+          PACLITAXEL MYLAN PHARMA 100 MG/16.7 ML       0.00      0.00      0.00       0.0
+                                       PARACETAL       0.00      0.00      0.00       0.0
+                                       PARASPHAN       0.00      0.00      0.00       0.0
+                                           PAXEL       0.00      0.00      0.00       0.0
+                                         PECTRYL       0.00      0.00      0.00       0.0
+                    PENICILLINE G 1 M UI DIAMANT       0.00      0.00      0.00       0.0
+                                      PERSANTINE       0.00      0.00      0.00       0.0
+                                          PHAEVA       0.00      0.00      0.00       0.0
+                                      PHARMAFLAM       0.00      0.00      0.00       0.0
+                                       PHARMATEX       0.00      0.00      0.00       0.0
+                     PHARMATEX 18.9MG 6 CAPS GYN       0.00      0.00      0.00       0.0
+                   PHOTOS MEDICAMENTS AUGMENTEES       0.00      0.00      0.00    1548.0
+                                          PILO 2       0.00      0.00      0.00       0.0
+               PNEUMOVAX 23 (ANTIPNEUMOCOC.) (H)       0.00      0.00      0.00       0.0
+                                  POLYFRESH 0.2%       0.00      0.00      0.00       0.0
+                                           POMEX       0.00      0.00      0.00       0.0
+                                         PONSTYL       0.00      0.00      0.00       0.0
+                             PONSTYL 500 MG 20CP       0.00      0.00      0.00       0.0
+                                          POSINE       0.00      0.00      0.00       0.0
+                                       POTASSIUM       0.00      0.00      0.00       0.0
+                                          PRAZOL       0.00      0.00      0.00       0.0
+                                         PRE-NAN       0.00      0.00      0.00       0.0
+                                       PREDNI 20       0.00      0.00      0.00       0.0
+                    PREVENAR 13 SUSP INJ 0.5ML 1       0.00      0.00      0.00       0.0
+                                         PRISDAL       0.00      0.00      0.00       0.0
+                                         PROCLOR       0.00      0.00      0.00       0.0
+                                        PROFENID       0.00      0.00      0.00       0.0
+                                         PROGRAF       0.00      0.00      0.00       0.0
+                                          PROMET       0.00      0.00      0.00       0.0
+                                          PROTOS       0.00      0.00      0.00       0.0
+                                  PULMOFLUIDE AD       0.00      0.00      0.00       0.0
+                   PYLERA 14/125/15MG FL 120GELU       0.00      0.00      0.00       0.0
+                                             PZA       0.00      0.00      0.00       0.0
+                                         RABIPUR       0.00      0.00      0.00       0.0
+  RAMIPRIL/HYDROCHLOROTHIAZIDE GT 2.5 MG/12.5 MG       0.00      0.00      0.00       0.0
+                             RANCIPHEX 10MG 14CP       0.00      0.00      0.00       0.0
+                                           RAZON       0.00      0.00      0.00       0.0
+                            RAZON 40MG 14 CP (R)       0.00      0.00      0.00       0.0
+                    RECORMON 3000UI BTE /6 SGUES       0.00      0.00      0.00       0.0
+                            REGAXIDIL 5% FL 60ML       0.00      0.00      0.00       0.0
+                                   RISONEL 0.05%       0.00      0.00      0.00       0.0
+                                       ROCMALINE       0.00      0.00      0.00       0.0
+                                           ROMAC       0.00      0.00      0.00       0.0
+                                           ROXID       0.00      0.00      0.00       0.0
+                                           RULID       0.00      0.00      0.00       0.0
+          RYZODEG FLEXTOUCH 100UI/ML STYLO 5*3ML       0.00      0.00      0.00       0.0
+                                    S-CORT 20 MG       0.00      0.00      0.00       0.0
+                       SAFLU 250 SB FL 120 DOSES       0.00      0.00      0.00       0.0
+                SALINE PLUS 0.9% 20 UNIDOSES 5ML       0.00      0.00      0.00       0.0
+                          SANCUSO 34.3MG 1 PATCH       0.00      0.00      0.00       0.0
+                                          SELSUN       0.00      0.00      0.00       0.0
+                                            SERC       0.00      0.00      0.00       0.0
+                SERETIDE 125/25FG AEROS 120D (H)       0.00      0.00      0.00       0.0
+                                        SEVREDOL       0.00      0.00      0.00       0.0
+                                         SK-F 12       0.00      0.00      0.00       0.0
+                                        SK-F 203       0.00      0.00      0.00       0.0
+                                          SOCLAV       0.00      0.00      0.00       0.0
+              SOLUPRED 20MG /20CP TVA 0% (P) (H)       0.00      0.00      0.00       0.0
+                                         SOTALEX       0.00      0.00      0.00       0.0
+                                         SPASFON       0.00      0.00      0.00       0.0
+                                         SPASMAG       0.00      0.00      0.00       0.0
+                                       SPASMOPAN       0.00      0.00      0.00       0.0
+                                    SPECTRUM 500       0.00      0.00      0.00       0.0
+                                  SPECTRUM 500MG       0.00      0.00      0.00       0.0
+                         SPIRALIDE 3 M.U.I 16 CP       0.00      0.00      0.00       0.0
+                                         SPIRIVA       0.00      0.00      0.00       0.0
+              STALORAL DPTE/DFAR (075201E) 300IR       0.00      0.00      0.00       0.0
+                      STERIDIOL 0.15/0.03MG B/21       0.00      0.00      0.00       0.0
+                                   STEROGYL 15 H       0.00      0.00      0.00       0.0
+                                          SULFAM       0.00      0.00      0.00       0.0
+                                          SURGAM       0.00      0.00      0.00       0.0
+               SYMBICORT TURB. 200/6MG /120D (H)       0.00      0.00      0.00       0.0
+                SYMBICORT TURB. 400/12MG 60D (H)       0.00      0.00      0.00       0.0
+                                         SYNTHOL       0.00      0.00      0.00       0.0
+                               TEGUMA B/7 CP (E)       0.00      0.00      0.00       0.0
+                                   TIM-87 0,25 %       0.00      0.00      0.00       0.0
+                                    TIM-87 0,5 %       0.00      0.00      0.00       0.0
+                                          TOBREX       0.00      0.00      0.00       0.0
+                                  TOBREX COLLYRE       0.00      0.00      0.00       0.0
+                   TOPLEXIL SP FL 150 ML (P) (H)       0.00      0.00      0.00       0.0
+                    TOPSYNE A.P.G. 0.05% 15G PDE       0.00      0.00      0.00       0.0
+                                           TORVA       0.00      0.00      0.00       0.0
+                                         TOTHEMA       0.00      0.00      0.00       0.0
+                    TOTIFEN 1MG BTE /30 GEL. (H)       0.00      0.00      0.00       0.0
+                    TOUCOF SP ANTITUSSIF SS  (H)       0.00      0.00      0.00       0.0
+               TRESIBA FLEXTOUCH 100UI/ML /1*3ML       0.00      0.00      0.00       0.0
+                         TRIACEPHINE PHARMA5 I.V       0.00      0.00      0.00       0.0
+                          TRICEF 0.5G 1FL INJ IM       0.00      0.00      0.00       0.0
+                                         TRIELLA       0.00      0.00      0.00       0.0
+               TRIPLIXAM 10/2.5/10 MG BTE 30 CPS       0.00      0.00      0.00       0.0
+                                          TRONID       0.00      0.00      0.00       0.0
+                        TUBERCULINE 2 UT / 0,1ML       0.00      0.00      0.00       0.0
+                                        ULCECURE       0.00      0.00      0.00       0.0
+                                         ULCEMAT       0.00      0.00      0.00       0.0
+                ULTRA-LEVURE 250 /10 SACHETS (E)       0.00      0.00      0.00       0.0
+                      UN-ALFA 1 UG X 30 CAPSULES       0.00      0.00      0.00       0.0
+                                    UN-ALFA 1 ΜG       0.00      0.00      0.00       0.0
+                                         URBANYL       0.00      0.00      0.00       0.0
+                                URGOCOR CORICIDE       0.00      0.00      0.00       0.0
+                       URO / EAU POUR IRRIGATION       0.00      0.00      0.00       0.0
+                                         UROXINE       0.00      0.00      0.00       0.0
+                                          VALIUM       0.00      0.00      0.00       0.0
+                                          VASCOR       0.00      0.00      0.00       0.0
+                       VENDEP XR 37.5MG /10 GEL.       0.00      0.00      0.00       0.0
+                                       VENTOLINE       0.00      0.00      0.00       0.0
+               VENTOLINE 0.5MG/ML /6 AMP 0% (SP)       0.00      0.00      0.00       0.0
+                   VENTOLINE 100MCG SPRAY 200D0%       0.00      0.00      0.00       0.0
+                   VISCERALGINE SUPPO FAIBLE /20       0.00      0.00      0.00       0.0
+                                          VITAIR       0.00      0.00      0.00       0.0
+                                  VOMISTOP 0.1 %       0.00      0.00      0.00       0.0
+                                     XENETIX 350       0.00      0.00      0.00       0.0
+                                           XENID       0.00      0.00      0.00       0.0
+                               XYCET 0.05% 120ML       0.00      0.00      0.00       0.0
+                                XYCET 0.05% 60ML       0.00      0.00      0.00       0.0
+                                 XYCET 5MG 15CPS       0.00      0.00      0.00       0.0
+                                 XYCET 5MG 30CPS       0.00      0.00      0.00       0.0
+                                         XYTENOL       0.00      0.00      0.00       0.0
+                                         ZANIDIP       0.00      0.00      0.00       0.0
+                                         ZAVEDOS       0.00      0.00      0.00       0.0
+                                          ZENTEL       0.00      0.00      0.00       0.0
+                                          ZILDEN       0.00      0.00      0.00       0.0
+                                          ZINNAT       0.00      0.00      0.00       0.0
+                                 ZITHROMAX 200MG       0.00      0.00      0.00       0.0
+                                           ZOCOR       0.00      0.00      0.00       0.0
+                      ZOLADEX 10.8MG IMPLANT INJ       0.00      0.00      0.00       0.0
+                                          ZOMETA       0.00      0.00      0.00       0.0
+                                           ZOMIG       0.00      0.00      0.00       0.0
+                                          ZOTROL       0.00      0.00      0.00       0.0
+                                             nan       0.00      0.00      0.00       0.0
+
+                                        accuracy                           0.00    1548.0
+                                       macro avg       0.00      0.00      0.00    1548.0
+                                    weighted avg       0.00      0.00      0.00    1548.0
